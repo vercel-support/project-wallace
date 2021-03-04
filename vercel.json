@@ -1,5 +1,5 @@
 {
   "routes": [
-    { "src": "/(.*)", "dest": "https://project-wallace-static.vercel.app/$1" }
+    { "src": "/(.*)", "dest": "https://content-project-wallace.vercel.app/$1" }
   ]
 }
